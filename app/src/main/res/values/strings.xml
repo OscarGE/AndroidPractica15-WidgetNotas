@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica15_Widget(Notas)</string>
+    <string name="tituloWidget">Mis notas</string>
+    <string name="emojiNotas">📝</string>
+    <string name="tituloActivityMain">Todas mis notas</string>
+    <string name="tituloDialogNota">Nueva nota</string>
+    <string name="tituloNota">Vista detallada</string>
+</resources>
